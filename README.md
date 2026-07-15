@@ -51,4 +51,4 @@ Explore the detailed documentation to understand and extend the toolkit:
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
-*Built with Eng. Malek M. Al-Edresi ❤️.
+* Built with Eng. Malek M. Al-Edresi ❤️.
